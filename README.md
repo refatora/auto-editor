@@ -1,6 +1,8 @@
 # auto-editor  
 
-Automatize a edição de seus vídeos com uma seleção de scripts de linha de comando (CLI - Command Line Interface) que facilitam esse processo.  
+Automatize a edição de seus vídeos com uma seleção de scripts de linha de comando (CLI - Command Line Interface) que facilitam esse processo.
+
+Este projeto é apenas um conjunto de scripts convenientes para edição automatizada de vídeos baseado no [auto-editor](https://auto-editor.com). Quer mais controle sobre as suas edições automatizadas? Visite a página oficial do https://auto-editor.com
 
 ## Requisitos  
 * Docker  
