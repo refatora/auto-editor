@@ -33,4 +33,6 @@ docker run \
   -v $FROM_PATH:$FROM_INTERNAL \
   -v $TO:/app/output \
   auto-editor \
-  --no-open --edit audio:0.02 -m 0.4s,0.4s -o $TO_INTERNAL $FROM_INTERNAL
+  --no-open --edit audio:0.015 -m 0.5s,0.5s -o $TO_INTERNAL $FROM_INTERNAL
+
+echo "Edited file saved at: $TO/auto-$FROM_NAME"
